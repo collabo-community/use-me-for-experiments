@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "id": "pr01",
+            "name": "Building Blocks",
+            "project_count": 3,
+            "url": {
+                "doc": "https://docs.collabocommunity.com/projects-overview/collabo-projects/building-blocks",
+                "image": ""
+            }
+        },
+        {
+            "id": "pr02",
+            "name": "Collabocate",
+            "project_count": 1,
+            "url": {
+                "doc": "https://docs.collabocommunity.com/projects-overview/collabo-projects/collabocate",
+                "image": ""
+            }
+        },
+        {
+            "id": "pr05",
+            "name": "Create Collabo App",
+            "project_count": 2,
+            "url": {
+                "doc": "https://docs.collabocommunity.com/projects-overview/collabo-projects/create-collabo-app",
+                "image": ""
+            }
+        },
+        {
+            "id": "pr16",
+            "name": "Collabo Community App",
+            "project_count": 2,
+            "url": {
+                "doc": "https://docs.collabocommunity.com/projects-overview/collabo-projects/collabo-community-app",
+                "image": ""
+            }
+        },
+        {
+            "id": "pr22",
+            "name": "Collabo Documentation",
+            "project_count": 5,
+            "url": {
+                "doc": "https://docs.collabocommunity.com/projects-overview/collabo-projects/collabo-documentation",
+                "image": ""
+            }
+        },
+        {
+            "id": "pr23",
+            "name": "Collabo Blog",
+            "project_count": 1,
+            "url": {
+                "doc": "https://docs.collabocommunity.com/submit-blog-post-guidelines",
+                "image": ""
+            }
+        },
+        {
+            "id": "pr25",
+            "name": "Internal Collabo Projects",
+            "project_count": 3,
+            "url": {
+                "doc": "https://docs.collabocommunity.com/projects-overview/collabo-projects/internal-projects",
+                "image": ""
+            }
+        }
+    ]
+}
