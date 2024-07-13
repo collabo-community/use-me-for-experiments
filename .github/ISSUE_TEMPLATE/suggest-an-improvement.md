@@ -8,6 +8,7 @@ assignee:
 ---
 
 #### Which Collabo Community project are you suggesting improvement for?
+
 > [!IMPORTANT]  
 > Supply this crucial information to help us serve you better. Remove this alert notice and follow the direction below.
 
@@ -16,6 +17,7 @@ Replace this dummy text with the name of the Collabo Community project you want 
 #
 
 #### Suggested improvement
+
 > [!IMPORTANT]  
 > Supply this crucial information to help us serve you better. Remove this alert notice and follow the direction below.
 
@@ -24,6 +26,7 @@ Replace this dummy text with a brief description of the improvement you wish to 
 #
 
 #### Has your suggestion (or something similar to your suggestion) been implemented in some other project outside the Collabo Community?
+
 > [!IMPORTANT]  
 > Supply this crucial information to help us serve you better. Remove this alert notice and follow the direction below.
 
@@ -33,6 +36,7 @@ Replace this dummy text with a brief description of the improvement you wish to 
 #
 
 #### Additional context
+
 > [!TIP]  
 > This information is optional. Remove this alert notice and follow the direction below if there is a need to include it. Otherwise, just remove the additional context section totally from this issue body.
 
@@ -41,6 +45,7 @@ If applicable, replace this dummy text with any other context about your improve
 #
 
 #### Testing checklist
+
 > [!IMPORTANT]  
 > Remove this alert notice, but leave the note and checklist below as it is. Someone on the team will take care of the testing checklist once we have a clear understanding of your improvement suggestion request.
 

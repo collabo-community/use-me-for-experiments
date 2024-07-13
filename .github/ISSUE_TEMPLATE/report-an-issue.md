@@ -8,6 +8,7 @@ assignee:
 ---
 
 #### Issue description
+
 > [!IMPORTANT]  
 > Supply this crucial information to help us serve you better. Remove this alert notice and follow the direction below.
 
@@ -16,6 +17,7 @@ Replace this dummy text with a clear and concise description of what the issue i
 #
 
 #### Steps to reproduce the issue
+
 > [!IMPORTANT]  
 > Supply this crucial information to help us serve you better. Remove this alert notice and follow the direction below.
 
@@ -27,6 +29,7 @@ Replace this dummy steps to reproduce the issue (text and list) with your own co
 #
 
 #### Expected behavior
+
 > [!IMPORTANT]  
 > Supply this crucial information to help us serve you better. Remove this alert notice and follow the direction below.
 
@@ -35,6 +38,7 @@ Replace this dummy text with a clear and concise description of what you expecte
 #
 
 #### Screenshots
+
 > [!TIP]  
 > This information is optional. Remove this alert notice and follow the direction below if there is a need to include it. Otherwise, just remove the screenshots section totally from this issue body.
 
@@ -43,6 +47,7 @@ If applicable, replace this dummy text with screenshot(s) to help explain your p
 #
 
 #### On what desktop device or OS does this happen?
+
 > [!IMPORTANT]  
 > Supply this crucial information to help us serve you better. Remove this alert notice and follow the direction below.
 
@@ -61,6 +66,7 @@ If applicable, replace this dummy text with screenshot(s) to help explain your p
  #
 
  #### On what Smartphone device or OS does this happen?
+
 > [!IMPORTANT]  
 > Supply this crucial information to help us serve you better. Remove this alert notice and follow the direction below.
 
@@ -75,6 +81,7 @@ If applicable, replace this dummy text with screenshot(s) to help explain your p
  #
 
 #### Additional context
+
 > [!TIP]  
 > This information is optional. Remove this alert notice and follow the direction below if there is a need to include it. Otherwise, just remove the additional context section totally from this issue body.
 
@@ -83,6 +90,7 @@ If applicable, replace this dummy text with any other context about the problem.
 #
 
 #### Testing checklist
+
 > [!IMPORTANT]  
 > Supply this crucial information to help us serve you better. Remove this alert notice, leave the note to contributor intro as it is, and follow the direction to add testing checklists as shown in the list with checkboxes.
 
