@@ -13,6 +13,7 @@
 > Remove this alert notice and follow the direction below to ensure and confirm that your pull request follows community guidelines. Tick the checkboxes accordingly.
 
 - [ ] My pull request adheres to the [Collabo Community pull request guidelines](https://docs.collabocommunity.com/pull-request-guidelines).
+- [ ] I have read and understood the **Pull request guideline extension** section found at the bottom of this pull request description/body.
 - [ ] I have replaced the dummy text under the subheading **Testing checklist** below with the testing checklist from the issue ticket I'm working on.
 
 #
@@ -40,6 +41,8 @@ Replace this dummy text with new information on how to run the project (preferab
 > [!NOTE]  
 > Do not remove this note or section. This talks about extra things to take note of, in addition to the directions given in the Collabo Community pull request guidelines.
 
-"Ready for review" implies that things are working as expected. Ensure that you test the code that you are working on, that it works as expected. Don't just request for review when your PR is not yet done and working.
+We appreciate the time taken to help tackle issue tickets within the Collabo Community. Please go ahead to submit your pull request even if it is not yet completed, and push to the pull request actively. This will allow us to know that you have not abandoned the issue ticket. However, you should only alert reviewers about your pull request as explained below, to avoid flooding their GitHub notifications unnecessarily.
 
-The only time you should be making people review something incomplete is: if you want to show them what's not working, so that they can send help or guidance. If this is the case, be explicit about this in our Discord community channel or on your PR.
+"Ready for review" implies that things are working as expected, according to how it is specified in the issue ticket you are working on. Ensure that you test the code that you are working on, that it works as expected. Don't just request for review when your pull request is not yet done and working.
+
+The only time you should be making people review something incomplete is: if you want to show them what's not working, so that they can send help or guidance. If this is the case, be explicit about this in our Discord community or in the comment of your pull request (after you have submitted the pull request).
