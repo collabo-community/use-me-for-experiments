@@ -49,4 +49,4 @@ The only time you should be making people review something incomplete is: if you
 
 #
 
-> For this repository, the review team to request review from is the **`@collabo-community/maintainers`** team.
+**Requesting review**: For this repository, the review team to request review from is the **`@collabo-community/maintainers`** team. Once your pull request is ready for review, select this review team from the reviewers dropdown on this pull request. If you don't have access to the reviewer's dropdown, tag this review team in the comment of this pull request.
