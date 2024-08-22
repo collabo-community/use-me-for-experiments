@@ -46,3 +46,7 @@ We appreciate the time taken to help tackle issue tickets within the Collabo Com
 "Ready for review" implies that things are working as expected, according to how it is specified in the issue ticket you are working on. Ensure that you test the code that you are working on, that it works as expected. Don't just request for review when your pull request is not yet done and working.
 
 The only time you should be making people review something incomplete is: if you want to show them what's not working, so that they can send help or guidance. If this is the case, be explicit about this in our Discord community or in the comment of your pull request (after you have submitted the pull request).
+
+#
+
+> For this repository, the review team to request review from is the **@collabo-community/maintainers** team.
