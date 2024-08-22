@@ -39,7 +39,7 @@ Replace this dummy text with new information on how to run the project (preferab
 #### Pull request guideline extension
 
 > [!NOTE]  
-> Do not remove this note or section. This talks about extra things to take note of, in addition to the directions given in the Collabo Community pull request guidelines.
+> Do not remove this note and the sections below. This talks about extra things to take note of, in addition to the directions given in the Collabo Community pull request guidelines.
 
 We appreciate the time taken to help tackle issue tickets within the Collabo Community. Please go ahead to submit your pull request even if it is not yet completed, and push to the pull request actively. This will allow us to know that you have not abandoned the issue ticket. However, you should only alert reviewers about your pull request as explained below, to avoid flooding their GitHub notifications unnecessarily.
 
@@ -49,4 +49,4 @@ The only time you should be making people review something incomplete is: if you
 
 #
 
-> For this repository, the review team to request review from is the **@collabo-community/maintainers** team.
+> For this repository, the review team to request review from is the **`@collabo-community/maintainers`** team.
