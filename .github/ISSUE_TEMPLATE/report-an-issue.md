@@ -7,6 +7,8 @@ assignee:
 
 ---
 
+<!-- Issue template by Collabo Community -->
+
 #### Issue description
 
 > [!IMPORTANT]  

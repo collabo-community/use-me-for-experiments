@@ -7,6 +7,8 @@ assignee:
 
 ---
 
+<!-- Issue template by Collabo Community -->
+
 #### Which Collabo Community project are you suggesting improvement for?
 
 > [!IMPORTANT]  
