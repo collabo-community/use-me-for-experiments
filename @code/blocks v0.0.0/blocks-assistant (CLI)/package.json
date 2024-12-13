@@ -1,0 +1,112 @@
+{
+  "name": "@collabo-community/blocks-assistant",
+  "version": "0.0.0",
+  "description": "Blocks Assistant Command Line Interface (CLI) automates the usage of the Building Blocks framework in the apps or projects that we build within the Collabo Community. Collabo Community has also made it publicly available so that other persons or communities will also be able to use it to automate software development.",
+  "main": "src/cli.ts",
+  "bin": {
+    "@collabo-community/blocks-assistant": "bin/blocks-assistant",
+    "blocks": "bin/blocks-assistant"
+  },
+  "scripts": {
+    "cli:dev:dist": "npm-run-all --parallel tsconfig:dev:watch dev:dist",
+    "cli:prod:build": "npm-run-all --parallel lint tsconfig:prod prod:build",
+    "cli:cleanup": "node -r esm dev/cleanup.js",
+    "divider1": "-----------------------------------------",
+    "blocks:cli:dev:dist": "npm-run-all --parallel tsconfig:dev:watch blocks:dev:dist",
+    "blocks:cli:prod:build": "npm-run-all --parallel lint tsconfig:prod blocks:prod:build",
+    "divider2": "-----------------------------------------",
+    "lint": "eslint src **/*.ts --color",
+    "tsconfig:prod": "tsc -p tsconfig.prod.json",
+    "tsconfig:dev:watch": "tsc-watch --noClear -p ./tsconfig.dev.json --onSuccess \"npm run lint\"",
+    "divider3": "-----------------------------------------",
+    "prod:build": "blocks-assistant",
+    "dev:dist": "blocks-assistant",
+    "blocks:dev:dist": "blocks-assistant",
+    "blocks:prod:build": "blocks-assistant",
+    "divider4": "-----------------------------------------",
+    "predev": "node -r esm dev/customize/startMessage.js",
+    "test": "npm-run-all --parallel test-message dev-test",
+    "dev-test": "nodemon --exec babel-node spec/run.js",
+    "CI-test": "babel-node spec/run.js",
+    "test-message": "node -r esm src/dev/customize/testMessage"
+  },
+  "dependencies": {
+    "arg": "^5.0.2",
+    "esm": "^3.2.25",
+    "npm-run-all": "^4.1.5",
+    "@collabo-community/building-blocks": ""
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.26.4",
+    "@babel/core": "^7.26.0",
+    "@babel/eslint-parser": "^7.25.9",
+    "@babel/node": "^7.26.0",
+    "@babel/plugin-syntax-dynamic-import": "^7.8.3",
+    "@babel/plugin-syntax-import-meta": "^7.10.4",
+    "@babel/plugin-transform-object-rest-spread": "^7.25.9",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/register": "^7.25.9",
+    "@types/node": "^22.10.1",
+    "babel-plugin-transform-import-meta": "^2.2.1",
+    "eslint": "^9.16.0",
+    "eslint-plugin-import": "^2.31.0",
+    "jasmine": "^5.5.0",
+    "nodemon": "^3.1.7",
+    "tsc-watch": "^6.2.1",
+    "typescript": "^5.7.2"
+  },
+  "files": [
+    "bin/",
+    "build/src/",
+    "templates/"
+  ],
+  "keywords": [
+    "npm",
+    "package",
+    "collabo",
+    "community",
+    "code",
+    "project",
+    "automate",
+    "automation",
+    "cli",
+    "command",
+    "line",
+    "interface",
+    "node",
+    "nodejs",
+    "building",
+    "blocks",
+    "assistant",
+    "backend",
+    "frontend",
+    "library",
+    "framework",
+    "boilerplate",
+    "template",
+    "development",
+    "environment",
+    "typescript",
+    "javascript",
+    "ts",
+    "esm",
+    "api",
+    "mongod",
+    "mongodb",
+    "atlas",
+    "local"
+  ],
+  "homepage": "https://github.com/collabo-community/blocks-assistant#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collabo-community/blocks-assistant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/collabo-community/issue-tickets-ready-for-fixing/issues"
+  },
+  "author": "Collabo Community",
+  "license": "AGPL v3.0",
+  "contributors": [
+    "Find list of contributors in project README: https://github.com/collabo-community/blocks-assistant?tab=readme-ov-file#contributors"
+  ]
+}
