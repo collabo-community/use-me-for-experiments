@@ -1,6 +1,6 @@
 # @put-your-own-GitHub-username-here's markdown tutorial
 
-Hi, I'm @put-your-own-GitHub-username-here. I'm currently learning to collaborate with Git and GitHub. I'm currently learning to do so at @collabo-community. In the next section below, I will show you how to use (some) GitHub markdown.
+Hi, I'm @put-your-own-GitHub-username-here. I'm currently learning to collaborate with Git and GitHub. I'm currently learning to do so at @collabo-community. In the next section below, I will show you how to format a .md file content using GitHub markdown. I will be doing this from the **GitHub Web Interface**. Let's go there! 💪🏽
 
 #
 
